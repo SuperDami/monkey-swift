@@ -11,7 +11,6 @@ import SwiftUI
 struct monkey_swiftApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
         }
     }
 }
